@@ -1,0 +1,366 @@
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:69 - La page Liste des feuilles de temps est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:75 - La colonne Date de Debut est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:78 - La colonne Date de Fin est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:81 - La colonne Modele est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:84 - La colonne Travail Total est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:87 - La colonne Code est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:90 - La colonne Actions est affichée
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:97 - Le champs de filtre Modèle apparaît
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:110 - Les champs de tri par date de début et date de fin sont présents
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:113 - Le bouton filtre est présent
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:121 - La liste déroulante Choisir un canevas est présente et sa valeur par défaut est Default
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:126 - Le bouton Nouvelle Feuille de temps est présent
+2020-07-29 11:12:21 [INFO ] TestCreerFeuilleTempsRHT01:142 - La page Créer la feuille de temps s'affiche
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:149 - Le bloc Données générales est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:153 - La valeur par défaut du champ Type est Code
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:159 - La case générer le code est coché par défaut
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:176 - Le bloc Lignes de feuille de temps est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:181 - Le bouton Ajouter une ligne est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:186 - La colonne Date est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:191 - La colonne Ressource est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:196 - La colonne Tâche est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:201 - La colonne Heures est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:206 - La colonne Type d'heures est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:211 - La colonne Réalisé est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:216 - La colonne Code est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:221 - La colonne Op est présente
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:228 - Le bouton Enregistrer est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:233 - Le bouton Sauver et Continuer est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:238 - Le bouton Sauvegarder & Nouvelle feuille de temps est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:243 - Le bouton Annuler est présent
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:249 - Une ligne a été ajoutée
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:258 - La date affichée au calendrier est la suivante: 29 juil. 2020
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:267 - La date affichée elle la date du jour et elle respecte le format dd month yyyy
+2020-07-29 11:12:22 [INFO ] TestCreerFeuilleTempsRHT01:279 - Le champ de recherche Tâche est présent
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:284 - Le bouton loupe du champ de recherche Tâche est présent
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:291 - La valeur par défaut est 0
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:298 - La valeur par défaut est Default
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:305 - La case est décochée par défaut
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:315 - Le champ Code est présent, le champ est vide et non saisissable
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:322 - L'icone poubelle est présent pour supprimer la ligne
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:327 - La date a été modifiée
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:346 - Le chiffre 8 est entré dans la case Heures
+2020-07-29 11:12:23 [INFO ] TestCreerFeuilleTempsRHT01:353 - La case est bien cochée
+2020-07-29 11:15:09 [INFO ] TestCreerParticipantGRE01:62 - Page Liste des participants affichée
+2020-07-29 11:15:09 [INFO ] TestCreerParticipantGRE01:77 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 11:15:09 [INFO ] TestCreerParticipantGRE01:87 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 11:15:09 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 11:15:10 [INFO ] TestCreerParticipantGRE01:107 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 11:15:10 [INFO ] TestCreerParticipantGRE01:120 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 11:15:34 [INFO ] TestCreerParticipantGRE01:62 - Page Liste des participants affichée
+2020-07-29 11:15:34 [INFO ] TestCreerParticipantGRE01:77 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 11:15:34 [INFO ] TestCreerParticipantGRE01:87 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 11:15:34 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 11:15:35 [INFO ] TestCreerParticipantGRE01:107 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 11:15:35 [INFO ] TestCreerParticipantGRE01:120 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 11:16:04 [INFO ] TestCreerParticipantGRE01:62 - Page Liste des participants affichée
+2020-07-29 11:16:05 [INFO ] TestCreerParticipantGRE01:77 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 11:16:05 [INFO ] TestCreerParticipantGRE01:87 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 11:16:05 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 11:16:05 [INFO ] TestCreerParticipantGRE01:107 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 11:16:05 [INFO ] TestCreerParticipantGRE01:120 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 12:35:46 [INFO ] TestCreerTypeAvancementAVA01:69 - La page Types d'avancement List est bien affichée
+2020-07-29 12:35:46 [INFO ] TestCreerTypeAvancementAVA01:79 - Les colonnes Nom, Activé, Prédéfini et Opérations sont affichées
+2020-07-29 12:35:46 [INFO ] TestCreerTypeAvancementAVA01:83 - Le bouton Créer est affiché
+2020-07-29 12:35:46 [INFO ] PageTypesDAvancement:71 - Clic du bouton Créer effectué
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:91 - Le tableau Modifier est affiché
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:96 - La checkbox Actif est affichée et cochée
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:100 - Le champ Valeur maximum est affiché
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:104 - Le champ Précision est affiché
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:108 - La mention User est présente
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:113 - La checkbox Pourcentages est affichée et décochée
+2020-07-29 12:35:47 [INFO ] TestCreerTypeAvancementAVA01:121 - Les boutons Enregistrer, Sauver et Annuler sont affichés
+2020-07-29 12:35:47 [INFO ] PageTypesDAvancement:105 - La checkbox est décochée
+2020-07-29 12:35:47 [INFO ] PageTypesDAvancement:81 - Clic du bouton Enregistrer effectué
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:145 - La page Types d'avancement List est bien affichée
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:152 - Le titre Type avancement - Test 1 est bien affiché
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:156 - La checkbox Activé de Test avancement - Test 1 est décochée
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:160 - La checkbox Prédéfini de Test avancement - Test 1 est décochée
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:164 - L'icône d'édition est affichée
+2020-07-29 12:35:48 [INFO ] TestCreerTypeAvancementAVA01:168 - L'icône de suppression est affichée
+2020-07-29 12:35:48 [INFO ] PageTypesDAvancement:71 - Clic du bouton Créer effectué
+2020-07-29 12:35:49 [INFO ] PageTypesDAvancement:121 - La checkbox est décochée
+2020-07-29 12:35:49 [INFO ] TestCreerTypeAvancementAVA01:185 - Le champ 'Valeur maximum' est disabled et non-modifiable
+2020-07-29 12:35:49 [INFO ] PageTypesDAvancement:76 - Clic du bouton Sauver effectué
+2020-07-29 12:35:49 [INFO ] TestCreerTypeAvancementAVA01:197 - Le titre Type avancement - Test 2 est bien affiché
+2020-07-29 12:35:49 [INFO ] PageTypesDAvancement:86 - Clic du bouton Annuler effectué
+2020-07-29 12:35:50 [INFO ] TestCreerTypeAvancementAVA01:214 - La checkbox Activé de Test avancement - Test 2 est cochée
+2020-07-29 12:35:50 [INFO ] TestCreerTypeAvancementAVA01:218 - La checkbox Prédéfini de Test avancement - Test 2 est décochée
+2020-07-29 12:35:50 [INFO ] TestCreerTypeAvancementAVA01:222 - L'icône de suppression est affichée
+2020-07-29 12:35:50 [INFO ] TestCreerTypeAvancementAVA01:226 - L'icône d'édition est affichée
+2020-07-29 12:46:26 [INFO ] TestAdministrationDesCriteresCRI01:64 - La page d'accueil s'affiche
+2020-07-29 12:46:27 [INFO ] TestAdministrationDesCriteresCRI01:75 - Les éléments de la page Critère s'affichent
+2020-07-29 12:46:28 [INFO ] TestAdministrationDesCriteresCRI01:86 - L'onglet Modifier et le tableau s'affichent
+2020-07-29 12:46:28 [INFO ] TestAdministrationDesCriteresCRI01:95 - Les boutons Enregistrer, Sauver et Continuer et Annuler s'affichent
+2020-07-29 12:47:06 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 12:47:07 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 12:47:07 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 12:47:07 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 12:47:07 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 12:47:07 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:58 - La page Liste des feuilles de temps est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:63 - La colonne Date de Debut est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:66 - La colonne Date de Fin est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:69 - La colonne Modele est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:72 - La colonne Travail Total est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:75 - La colonne Code est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:78 - La colonne Actions est affichée
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:84 - Le champs de filtre Modèle apparaît
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:96 - Les champs de tri par date de début et date de fin sont présents
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:99 - Le bouton filtre est présent
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:106 - La liste déroulante Choisir un canevas est présente et sa valeur par défaut est Default
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:110 - Le bouton Nouvelle Feuille de temps est présent
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:120 - La page Créer la feuille de temps s'affiche
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:126 - Le bloc Données générales est présent
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:130 - La valeur par défaut du champ Type est Code
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:135 - La case générer le code est coché par défaut
+2020-07-29 12:47:22 [INFO ] TestCreerFeuilleTempsRHT01:141 - Le bloc Lignes de feuille de temps est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:146 - Le bouton Ajouter une ligne est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:151 - La colonne Date est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:156 - La colonne Ressource est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:161 - La colonne Tâche est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:166 - La colonne Heures est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:171 - La colonne Type d'heures est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:176 - La colonne Réalisé est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:181 - La colonne Code est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:186 - La colonne Op est présente
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:192 - Le bouton Enregistrer est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:197 - Le bouton Sauver et Continuer est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:202 - Le bouton Sauvegarder & Nouvelle feuille de temps est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:207 - Le bouton Annuler est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:211 - Une ligne a été ajoutée
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:218 - La date affichée au calendrier est la suivante: 29 juil. 2020
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:227 - La date affichée elle la date du jour et elle respecte le format dd month yyyy
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:237 - Le champ de recherche Tâche est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:242 - Le bouton loupe du champ de recherche Tâche est présent
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:248 - La valeur par défaut est 0
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:254 - La valeur par défaut est Default
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:260 - La case est décochée par défaut
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:269 - Le champ Code est présent, le champ est vide et non saisissable
+2020-07-29 12:47:23 [INFO ] TestCreerFeuilleTempsRHT01:275 - L'icone poubelle est présent pour supprimer la ligne
+2020-07-29 12:47:24 [INFO ] TestCreerFeuilleTempsRHT01:279 - La date a été modifiée
+2020-07-29 12:47:24 [INFO ] TestCreerFeuilleTempsRHT01:283 - Le chiffre 8 est entré dans la case Heures
+2020-07-29 12:47:24 [INFO ] TestCreerFeuilleTempsRHT01:286 - La case est bien cochée
+2020-07-29 12:47:37 [INFO ] TestCreerProjetPROTA01:52 - l'utilisateur est connecté
+2020-07-29 12:47:38 [INFO ] TestCreerProjetPROTA01:56 - le champ de saisie nom n'est pas renseigné
+2020-07-29 12:47:38 [INFO ] TestCreerProjetPROTA01:59 - la liste déroulante du champ modèle n'est pas renseignée
+2020-07-29 12:47:38 [INFO ] TestCreerProjetPROTA01:61 - le champ de saisie code est renseigné par une valeur par défaut et non modifiable
+2020-07-29 12:47:38 [INFO ] TestCreerProjetPROTA01:63 - la case génerer le code est cochée par défaut
+2020-07-29 12:47:39 [INFO ] TestCreerProjetPROTA01:69 - le champ de saisie client n'est pas renseigné
+2020-07-29 12:47:39 [INFO ] TestCreerProjetPROTA01:71 - le bouton accepter est affiché
+2020-07-29 12:47:42 [INFO ] TestCreerProjetPROTA01:74 - Détail du projet est affiché
+2020-07-29 12:47:42 [INFO ] TestCreerProjetPROTA01:76 - WBS (tâches) est affiché
+2020-07-29 12:48:17 [INFO ] TestCreerTypeAvancementAVA01:67 - La page Types d'avancement List est bien affichée
+2020-07-29 12:48:17 [INFO ] TestCreerTypeAvancementAVA01:78 - Les colonnes Nom, Activé, Prédéfini et Opérations sont affichées
+2020-07-29 12:48:17 [INFO ] TestCreerTypeAvancementAVA01:83 - Le bouton Créer est affiché
+2020-07-29 12:48:17 [INFO ] PageTypesDAvancement:71 - Clic du bouton Créer effectué
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:93 - Le tableau Modifier est affiché
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:99 - La checkbox Actif est affichée et cochée
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:104 - Le champ Valeur maximum est affiché
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:109 - Le champ Précision est affiché
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:114 - La mention User est présente
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:120 - La checkbox Pourcentages est affichée et décochée
+2020-07-29 12:48:18 [INFO ] TestCreerTypeAvancementAVA01:129 - Les boutons Enregistrer, Sauver et Annuler sont affichés
+2020-07-29 12:48:18 [INFO ] PageTypesDAvancement:105 - La checkbox est décochée
+2020-07-29 12:48:18 [INFO ] PageTypesDAvancement:81 - Clic du bouton Enregistrer effectué
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:160 - La page Types d'avancement List est bien affichée
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:169 - Le titre Type avancement - Test 1 est bien affiché
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:174 - La checkbox Activé de Test avancement - Test 1 est décochée
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:179 - La checkbox Prédéfini de Test avancement - Test 1 est décochée
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:184 - L'icône d'édition est affichée
+2020-07-29 12:48:19 [INFO ] TestCreerTypeAvancementAVA01:189 - L'icône de suppression est affichée
+2020-07-29 12:48:19 [INFO ] PageTypesDAvancement:71 - Clic du bouton Créer effectué
+2020-07-29 12:48:20 [INFO ] PageTypesDAvancement:121 - La checkbox est décochée
+2020-07-29 12:48:20 [INFO ] TestCreerTypeAvancementAVA01:210 - Le champ 'Valeur maximum' est disabled et non-modifiable
+2020-07-29 12:48:20 [INFO ] PageTypesDAvancement:76 - Clic du bouton Sauver effectué
+2020-07-29 12:48:20 [INFO ] TestCreerTypeAvancementAVA01:223 - Le titre Type avancement - Test 2 est bien affiché
+2020-07-29 12:48:20 [INFO ] PageTypesDAvancement:86 - Clic du bouton Annuler effectué
+2020-07-29 12:48:21 [INFO ] TestCreerTypeAvancementAVA01:245 - La checkbox Activé de Test avancement - Test 2 est cochée
+2020-07-29 12:48:21 [INFO ] TestCreerTypeAvancementAVA01:250 - La checkbox Prédéfini de Test avancement - Test 2 est décochée
+2020-07-29 12:48:21 [INFO ] TestCreerTypeAvancementAVA01:255 - L'icône de suppression est affichée
+2020-07-29 12:48:21 [INFO ] TestCreerTypeAvancementAVA01:260 - L'icône d'édition est affichée
+2020-07-29 15:09:38 [INFO ] TestParticipant2:58 - Page Liste des participants affichée
+2020-07-29 15:09:39 [INFO ] TestParticipant2:74 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 15:09:39 [INFO ] TestParticipant2:85 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 15:09:39 [INFO ] TestParticipant2:97 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 15:09:39 [INFO ] TestParticipant2:108 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 15:09:39 [INFO ] TestParticipant2:122 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 15:51:40 [INFO ] TestParticipant2:58 - Page Liste des participants affichée
+2020-07-29 15:51:41 [INFO ] TestParticipant2:74 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 15:51:41 [INFO ] TestParticipant2:85 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 15:51:41 [INFO ] TestParticipant2:97 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 15:51:41 [INFO ] TestParticipant2:108 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 15:51:41 [INFO ] TestParticipant2:122 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:29:41 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:29:41 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:29:41 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:29:41 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:29:42 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:29:42 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:29:42 [INFO ] TestCreerParticipantGRE01:134 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:31:24 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:31:24 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:31:24 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:31:25 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:31:25 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:31:25 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:31:25 [INFO ] TestCreerParticipantGRE01:134 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:33:15 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:33:15 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:33:15 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:33:15 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:33:16 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:33:16 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:33:16 [INFO ] TestCreerParticipantGRE01:134 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:38:52 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:38:53 [INFO ] TestCreerParticipantGRE01:134 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:44:47 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:44:47 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:44:48 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:44:48 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:44:48 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:44:48 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:44:48 [INFO ] TestCreerParticipantGRE01:135 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:45:16 [INFO ] TestCreerParticipantGRE01:135 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:45:47 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:45:47 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:45:47 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:45:47 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:45:47 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:45:48 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:45:48 [INFO ] TestCreerParticipantGRE01:135 - Le bloc et les boutons radio sont affichés
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:59 - Page Liste des participants affichée
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:75 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:86 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:98 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:109 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:123 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 16:46:40 [INFO ] TestCreerParticipantGRE01:135 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:04:28 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:04:28 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:04:29 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:04:29 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:04:29 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:04:29 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:04:29 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:07:44 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:07:44 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:07:44 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:07:45 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:07:45 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:07:45 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:07:45 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:07:46 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:08:15 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:08:15 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:08:15 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:08:15 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:08:15 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:08:16 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:08:16 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:08:17 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:31:35 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:31:35 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:31:36 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:31:36 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:31:36 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:31:36 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:31:36 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:31:37 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:33:57 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:33:58 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:33:59 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:38:26 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:38:26 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:38:26 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:38:26 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:38:27 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:38:27 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:38:27 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:38:28 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:40:17 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:40:17 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:40:17 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:40:17 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:40:17 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:40:18 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:40:18 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:40:19 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:49:07 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:49:07 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:49:07 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:49:07 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:49:08 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:49:08 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:49:08 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:49:09 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:49:09 [INFO ] TestCreerParticipantGRE01:169 - Jean est affiché dans le tableau des participants
+2020-07-29 17:49:09 [INFO ] TestCreerParticipantGRE01:179 - Les champs de saisie et la liste sont affichés
+2020-07-29 17:54:44 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:54:45 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:54:47 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:54:47 [INFO ] TestCreerParticipantGRE01:169 - Jean est affiché dans le tableau des participants
+2020-07-29 17:54:47 [INFO ] TestCreerParticipantGRE01:179 - Les champs de saisie et la liste sont affichés
+2020-07-29 17:57:43 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:57:43 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:57:43 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:57:44 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:57:44 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:57:44 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:57:44 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:57:45 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:57:45 [INFO ] TestCreerParticipantGRE01:169 - Jean est affiché dans le tableau des participants
+2020-07-29 17:57:46 [INFO ] TestCreerParticipantGRE01:179 - Les champs de saisie et la liste sont affichés
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 17:58:58 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 17:59:00 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 17:59:00 [INFO ] TestCreerParticipantGRE01:172 - Jean est affiché dans le tableau des participants
+2020-07-29 17:59:00 [INFO ] TestCreerParticipantGRE01:182 - Les champs de saisie et la liste sont affichés
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:64 - Page Liste des participants affichée
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:80 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:91 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:103 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:114 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 18:04:33 [INFO ] TestCreerParticipantGRE01:128 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 18:04:34 [INFO ] TestCreerParticipantGRE01:140 - Le bloc et les boutons radio sont affichés
+2020-07-29 18:04:35 [INFO ] TestCreerParticipantGRE01:163 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 18:04:35 [INFO ] TestCreerParticipantGRE01:172 - Jean est affiché dans le tableau des participants
+2020-07-29 18:04:35 [INFO ] TestCreerParticipantGRE01:182 - Les champs de saisie et la liste sont affichés
+2020-07-29 18:08:30 [INFO ] TestCreerParticipantGRE01:65 - Page Liste des participants affichée
+2020-07-29 18:08:30 [INFO ] TestCreerParticipantGRE01:81 - Les colonnes Surnom, Prénom, ID, Code, En file et Opérations sont affichées
+2020-07-29 18:08:30 [INFO ] TestCreerParticipantGRE01:92 - Le champ de recherche et l'icône de recherche sont affichés
+2020-07-29 18:08:31 [INFO ] TestCreerParticipantGRE01:104 - Le champ Détails personnels et les boutons Plus d'options, Filtre et Créer sont affichés
+2020-07-29 18:08:31 [INFO ] TestCreerParticipantGRE01:115 - le titre de la page est affiché et l'onglet par défaut est Données personnelles
+2020-07-29 18:08:31 [INFO ] TestCreerParticipantGRE01:129 - Les champs Code, Prénom, Nom, ID et le menu déroulant sont affichés
+2020-07-29 18:08:31 [INFO ] TestCreerParticipantGRE01:141 - Le bloc et les boutons radio sont affichés
+2020-07-29 18:08:32 [INFO ] TestCreerParticipantGRE01:164 - Le nouvel utilisateur Jean DU est bien enregistré avec pour ID jdu
+2020-07-29 18:08:32 [INFO ] TestCreerParticipantGRE01:173 - Jean est affiché dans le tableau des participants
+2020-07-29 18:08:33 [INFO ] TestCreerParticipantGRE01:183 - Les champs de saisie et la liste sont affichés
+2020-07-29 18:08:33 [INFO ] TestCreerParticipantGRE01:186 - Déconnexion de l'utilisateur admin
+2020-07-29 18:08:33 [INFO ] TestCreerParticipantGRE01:193 - Le tableau de bord de l'utilisateur jdu
